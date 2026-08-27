@@ -1,0 +1,8 @@
+/node_modules
+/build
+/dist
+
+# Cypress
+/cypress/videos
+/cypress/screenshots
+/cypress/downloads
