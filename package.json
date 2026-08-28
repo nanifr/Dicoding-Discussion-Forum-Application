@@ -12,7 +12,8 @@
     "test:watch": "vitest",
     "cy:open": "cypress open",
     "cy:run": "cypress run",
-    "e2e": "start-server-and-test dev http://localhost:5173 cy:run"
+    "e2e": "start-server-and-test dev http://localhost:5173 cy:run",
+    "ci:test": "vitest run && start-server-and-test dev http://localhost:5173 cy:run"
   },
   "dependencies": {
     "@dimasmds/react-redux-loading-bar": "^5.0.10",
