@@ -1,5 +1,7 @@
 # Forum Discussion App — Submission 2: Automation Testing & CI/CD
 
+**URL Aplikasi (Vercel):** [dicoding-forum-applicationn.vercel.app](https://dicoding-forum-applicationn.vercel.app)
+
 **Aplikasi:** Forum Discussion App
 **Framework:** React + Vite + Redux
 **Testing:** Vitest, React Testing Library, User Event, Cypress
